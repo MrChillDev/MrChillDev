@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learningc#
 - 👯 I’m coding a Free GTA5 menu
-- 📫 How to reach me **adding discord
+- 📫 How to reach me **adding discord soon**
 
 <p align="left">
 </p>
